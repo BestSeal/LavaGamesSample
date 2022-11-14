@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16600223c7694e15a398cf55ef103583, type: 3}
+  m_Name: GardenBed
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  guiImage: {fileID: -8681540811324367610, guid: c6fc9b43a9b43e44d8e2db4b4a7e3af3, type: 3}
+  nameConstant: GardenBedLocalizationConstant
+  possibleObjectsToPlaceOn:
+  - {fileID: 5849734521815942449, guid: a929bfe5a7d49af4b80da7ad7d265bb4, type: 3}
+  - {fileID: 3791458082457925420, guid: 8aa7c847d6dff7c419742f09beaca88e, type: 3}
+  - {fileID: 3791458082457925420, guid: 21fa07e44631d5a4b99f6057c0514fff, type: 3}
